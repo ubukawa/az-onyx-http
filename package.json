@@ -1,8 +1,8 @@
 {
-  "name": "test1219",
+  "name": "az-onyx-http",
   "version": "0.0.0",
   "description": "test1219",
-  "main": "server.js",
+  "main": "app.js",
   "author": {
     "name": ""
   },
