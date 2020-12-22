@@ -12,6 +12,7 @@ cd az-onyx-http
 npm install
 mkdir config
 vi config/default.hjson
+vi .env
 ```
 
 ## an example of config/default.hjson
